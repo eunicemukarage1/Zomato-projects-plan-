@@ -38,7 +38,7 @@ Zomato's sales data demonstrates exceptional operational reliability and consist
 
   ## 📸 Dashboard Screenshots & Analysis
 
-### 1.KPI Overview
+### 1.KPI Overview(Cards)
 ![KPI'S PNG](https://github.com/user-attachments/assets/44324cf0-167e-442b-b4b7-88ae29fe4c11)
 
 ### *Observation: 
@@ -50,7 +50,7 @@ Zomato's sales data demonstrates exceptional operational reliability and consist
 ### Operational Excellence: 
 -Maintain these exceptional standards while scaling. Use this operational reliability as a key marketing differentiator and ensure systems can handle growth without compromising service quality.*
 
-### 2.Sales Trends Over Time  
+### 2.Sales Trends Over Time(Line chart)
 ![Screenshot sales overtime PNG](https://github.com/user-attachments/assets/881d0300-9fca-473f-8feb-2bb6e1f74842)
 
 ### *Observation: 
@@ -60,7 +60,7 @@ Zomato's sales data demonstrates exceptional operational reliability and consist
 ### Business Impact: 
 -The 62% decline from peak to trough represents significant revenue loss and suggests the need for strategic intervention to reverse the downward trend.*
 
-### 3.Day-of-Week Performance
+### 3.Day-of-Week Performance(Bar chart)
 ![Screenshot sales vs day of the week PNG](https://github.com/user-attachments/assets/1ef06e5b-da97-4ed0-be34-b3097f1d7acc)
 
 ### Observation:
@@ -70,7 +70,7 @@ Zomato's sales data demonstrates exceptional operational reliability and consist
 ### Strategic Opportunity: 
 -Weekend sales represent untapped potential - targeted promotions for family meals, lazy Sunday brunches, or weekend entertainment packages could boost weekend revenue.*
 
-### 4.Cuisine Performance Analysis
+### 4.Cuisine Performance Analysis(Bar chart)
 ![Screenshot  Cuisine type with high revenue PNG](https://github.com/user-attachments/assets/3df69e42-de08-4722-a8ba-462d8acf2d8b)
 
 ### Observation: 
