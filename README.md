@@ -34,7 +34,77 @@ Zomato's sales data demonstrates exceptional operational reliability and consist
 - Bar Chart – Sales by Day of the Week (Friday Peak vs Weekend Paradox)  
 - Bar Chart – Revenue by Cuisine Type  
 - Bar Chart – Revenue by City (Top 10)  
-- Scatter Plot – Revenue vs Rating (relationship between quality and sales)  
+- Scatter Plot – Revenue vs Rating (relationship between quality and sales)
+
+  ## 📸 Dashboard Screenshots & Analysis
+
+### 1.KPI Overview
+![KPI'S PNG](https://github.com/user-attachments/assets/44324cf0-167e-442b-b4b7-88ae29fe4c11)
+
+### *Observation: 
+-148,541 total orders with 99.999% completion rate, 0.001% cancellation rate, and only 2 problematic orders demonstrate exceptional operational performance.
+
+### Insight: 
+-These metrics indicate world-class operational excellence. The near-perfect completion rate suggests robust logistics, reliable restaurant partnerships, and effective customer service. This operational reliability is a significant competitive advantage.
+
+### Operational Excellence: 
+-Maintain these exceptional standards while scaling. Use this operational reliability as a key marketing differentiator and ensure systems can handle growth without compromising service quality.*
+
+### 2.Sales Trends Over Time  
+![Screenshot sales overtime PNG](https://github.com/user-attachments/assets/881d0300-9fca-473f-8feb-2bb6e1f74842)
+
+### *Observation: 
+-The line chart reveals a dramatic growth trajectory from 2017-2018, peaking at approximately 400M in January 2018, followed by a steep decline through 2019-2020, ending around 150M.
+### Insight: 
+-This pattern suggests Zomato experienced a "boom and bust" cycle. The 2017-2018 growth phase likely reflects successful market expansion, aggressive marketing, or favorable market conditions. The subsequent decline indicates either market saturation, increased competition, or external factors affecting the food delivery industry.
+### Business Impact: 
+-The 62% decline from peak to trough represents significant revenue loss and suggests the need for strategic intervention to reverse the downward trend.*
+
+### 3.Day-of-Week Performance
+![Screenshot sales vs day of the week PNG](https://github.com/user-attachments/assets/1ef06e5b-da97-4ed0-be34-b3097f1d7acc)
+
+### Observation:
+-Friday dominates with ~260M in sales, while weekends (Saturday ~165M, Sunday ~165M) show surprisingly lower performance. Monday through Thursday maintain consistent levels around 175-190M.
+### Insight: 
+-The "Friday Peak" phenomenon suggests customers celebrate the end of the work week with food orders, while the "Weekend Paradox" indicates people likely cook at home or dine out physically during weekends rather than ordering delivery.
+### Strategic Opportunity: 
+-Weekend sales represent untapped potential - targeted promotions for family meals, lazy Sunday brunches, or weekend entertainment packages could boost weekend revenue.*
+
+### 4.Cuisine Performance Analysis
+![Screenshot  Cuisine type with high revenue PNG](https://github.com/user-attachments/assets/3df69e42-de08-4722-a8ba-462d8acf2d8b)
+
+### Observation: 
+-Sweets & Tandoor leads significantly with 442,852 revenue, followed by Biryani & Bakery at 322,296. Traditional Indian cuisines dominate the top positions, while international cuisines like Italian-American and Mediterranean show lower performance.
+### Insight: 
+-Customer preferences strongly favor traditional Indian comfort foods and celebration items (sweets). This reflects cultural dining preferences and suggests Zomato's customer base values authentic, familiar flavors over international cuisine experimentation.
+### Menu Strategy: 
+-Focus marketing and restaurant partnerships on high-performing traditional cuisines while developing strategies to boost international cuisine adoption through fusion offerings or promotional campaigns.
+
+### 4. Top 10 Cities by Revenue (bar chart)
+![Screenshot geographical trend PNG](https://github.com/user-attachments/assets/76dca5c7-e430-4c0a-b85e-968a070bd0f6)
+
+### Observation: 
+-Tirupati leads with 174,911 revenue, followed by Sirsi (145,290) and Siwan (109,761). The revenue distribution shows a clear hierarchy with the top city generating 59% more than the 10th-ranked city.
+### Insight: 
+-Geographic concentration in smaller cities suggests Zomato has successfully penetrated tier-2 and tier-3 markets where competition may be lower and customer loyalty higher. These cities likely have fewer dining alternatives, making delivery services more valuable.
+### Expansion Strategy: 
+-Replicate the successful strategies from top-performing cities in similar demographic markets. Investigate what makes Tirupati so successful - is it population density, local partnerships, or marketing effectiveness?
+
+### Rating vs Revenue Correlation( scatter plot)
+![Screenshot Rating vs revenue PNG](https://github.com/user-attachments/assets/68789679-c941-4eca-91bf-6429932cd6b0)
+
+### Observation: 
+-The highest revenue concentrations appear in the 3.2-4.8 rating range, with some surprising outliers - several 5.0-rated restaurants generate relatively low revenue, while some mid-rated establishments achieve exceptional sales.
+### Insight: 
+-This reveals the "Quality Paradox" - perfect ratings don't guarantee commercial success. Mid-rated restaurants may offer better value propositions, faster delivery, or more appealing menu variety. 5-star restaurants might be too expensive or have limited menu options.
+### Quality vs Commercial Balance: 
+-Support underperforming 5-star restaurants with visibility boosts and pricing optimization, while learning from successful mid-rated establishments to understand what drives customer ordering behavior beyond just food quality.
+
+### Key Themes Across All Visualizations:
+- Operational excellence with room for strategic growth
+- Strong traditional market preferences
+- Geographic success in smaller cities
+- Quality-
 
 ## 🌐 Interactive Dashboard  
 🔗 View the live Tableau dashboard here:  
