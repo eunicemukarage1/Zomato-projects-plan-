@@ -80,7 +80,7 @@ Zomato's sales data demonstrates exceptional operational reliability and consist
 ### Menu Strategy: 
 -Focus marketing and restaurant partnerships on high-performing traditional cuisines while developing strategies to boost international cuisine adoption through fusion offerings or promotional campaigns.
 
-### 4. Top 10 Cities by Revenue (bar chart)
+### 5. Top 10 Cities by Revenue (bar chart)
 ![Screenshot geographical trend PNG](https://github.com/user-attachments/assets/76dca5c7-e430-4c0a-b85e-968a070bd0f6)
 
 ### Observation: 
@@ -90,7 +90,7 @@ Zomato's sales data demonstrates exceptional operational reliability and consist
 ### Expansion Strategy: 
 -Replicate the successful strategies from top-performing cities in similar demographic markets. Investigate what makes Tirupati so successful - is it population density, local partnerships, or marketing effectiveness?
 
-### Rating vs Revenue Correlation( scatter plot)
+### 6.Rating vs Revenue Correlation( scatter plot)
 ![Screenshot Rating vs revenue PNG](https://github.com/user-attachments/assets/68789679-c941-4eca-91bf-6429932cd6b0)
 
 ### Observation: 
@@ -104,7 +104,7 @@ Zomato's sales data demonstrates exceptional operational reliability and consist
 - Operational excellence with room for strategic growth
 - Strong traditional market preferences
 - Geographic success in smaller cities
-- Quality-
+- Quality doesn't always correlate with commercial success.
 
 ## 🌐 Interactive Dashboard  
 🔗 View the live Tableau dashboard here:  
