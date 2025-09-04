@@ -41,24 +41,24 @@ Zomato's sales data demonstrates exceptional operational reliability and consist
 ### 1.KPI Overview(Cards)
 ![KPI'S PNG](https://github.com/user-attachments/assets/44324cf0-167e-442b-b4b7-88ae29fe4c11)
 
-### *Observation: 
+### Observation: 
 -148,541 total orders with 99.999% completion rate, 0.001% cancellation rate, and only 2 problematic orders demonstrate exceptional operational performance.
 
 ### Insight: 
 -These metrics indicate world-class operational excellence. The near-perfect completion rate suggests robust logistics, reliable restaurant partnerships, and effective customer service. This operational reliability is a significant competitive advantage.
 
 ### Operational Excellence: 
--Maintain these exceptional standards while scaling. Use this operational reliability as a key marketing differentiator and ensure systems can handle growth without compromising service quality.*
+-Maintain these exceptional standards while scaling. Use this operational reliability as a key marketing differentiator and ensure systems can handle growth without compromising service quality.
 
 ### 2.Sales Trends Over Time(Line chart)
 ![Screenshot sales overtime PNG](https://github.com/user-attachments/assets/881d0300-9fca-473f-8feb-2bb6e1f74842)
 
-### *Observation: 
+### Observation: 
 -The line chart reveals a dramatic growth trajectory from 2017-2018, peaking at approximately 400M in January 2018, followed by a steep decline through 2019-2020, ending around 150M.
 ### Insight: 
 -This pattern suggests Zomato experienced a "boom and bust" cycle. The 2017-2018 growth phase likely reflects successful market expansion, aggressive marketing, or favorable market conditions. The subsequent decline indicates either market saturation, increased competition, or external factors affecting the food delivery industry.
 ### Business Impact: 
--The 62% decline from peak to trough represents significant revenue loss and suggests the need for strategic intervention to reverse the downward trend.*
+-The 62% decline from peak to trough represents significant revenue loss and suggests the need for strategic intervention to reverse the downward trend.
 
 ### 3.Day-of-Week Performance(Bar chart)
 ![Screenshot sales vs day of the week PNG](https://github.com/user-attachments/assets/1ef06e5b-da97-4ed0-be34-b3097f1d7acc)
@@ -68,7 +68,7 @@ Zomato's sales data demonstrates exceptional operational reliability and consist
 ### Insight: 
 -The "Friday Peak" phenomenon suggests customers celebrate the end of the work week with food orders, while the "Weekend Paradox" indicates people likely cook at home or dine out physically during weekends rather than ordering delivery.
 ### Strategic Opportunity: 
--Weekend sales represent untapped potential - targeted promotions for family meals, lazy Sunday brunches, or weekend entertainment packages could boost weekend revenue.*
+-Weekend sales represent untapped potential - targeted promotions for family meals, lazy Sunday brunches, or weekend entertainment packages could boost weekend revenue.
 
 ### 4.Cuisine Performance Analysis(Bar chart)
 ![Screenshot  Cuisine type with high revenue PNG](https://github.com/user-attachments/assets/3df69e42-de08-4722-a8ba-462d8acf2d8b)
